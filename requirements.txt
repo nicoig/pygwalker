@@ -7,3 +7,5 @@ beautifulsoup4==4.9.3
 openai==0.27.0
 tiktoken
 faiss-cpu
+pandas
+pygwalker

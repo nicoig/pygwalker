@@ -4,6 +4,7 @@
 # Primera Carga a Github
 # git init
 # git add .
+# git commit -m "primer commit"
 # git remote add origin https://github.com/nicoig/pygwalker.git
 # git push -u origin master
 
